@@ -1,0 +1,8 @@
+q = int(input('Input start number:'));
+d = int(input('Input difference of members:'));
+n = int(0);
+s = int(q);
+while d > (q-q+n):
+  n = n+1;
+  s = s+(q+n);
+print (s);
