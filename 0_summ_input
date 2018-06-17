@@ -1,0 +1,5 @@
+a = int(input('Input int a: '));
+print ('a =', a);
+b = int(input('Input int b: '));
+print ('b =', b);
+c = a+b; print ('c =', c);
