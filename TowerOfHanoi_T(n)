@@ -1,0 +1,4 @@
+n = int(input('Input int n: '));
+print ('Number of disks:', n);
+T = ((2**n)-1);
+print ('Number of reshuffle of disks:', T);
